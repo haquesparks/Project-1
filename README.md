@@ -1,4 +1,4 @@
-Project Background
+#Project Background
 
 Elcore Electronics is a global e-commerce company operating in the consumer electronics industry, offering a wide range of products including gaming consoles, monitors, laptops, and accessories. The company sells directly to customers through its website and mobile application, following a direct-to-consumer (D2C) business model.
 
@@ -24,7 +24,7 @@ To answer this, the analysis explores multiple dimensions of the business, with 
 •	Marketing Effectiveness - Evaluating channel performance, revenue contribution, and customer acquisition sources 
 •	Operational Efficiency - Analyzing seasonality, revenue fluctuations, and potential inefficiencies in business performance
 
-The interactive PowerBI dashboard can be downloaded [here](PASTE_LINK_HERE).
+The interactive PowerBI dashboard can be downloaded [here](Portfolio 1.pbix).
 ________________________________________
 Data Structure & Initial Checks
 
@@ -47,7 +47,7 @@ Prior to analysis, several data quality checks and transformations were performe
 •	Standardized missing values by replacing them with "Unknown" 
 •	Ensured consistency across categorical fields (platform, channel, country) 
 
-The queries utilized to inspect and perform quality checks can be found [here](PASTE_LINK_HERE).
+The queries utilized to inspect and perform quality checks can be found [here](Portofolio 1 Log.xlsx).
 ________________________________________
 Executive Summary
 
