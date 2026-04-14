@@ -4,7 +4,7 @@ Elcore Electronics is a global e-commerce company operating in the consumer elec
 
 The dataset covers the period from 2019 to 2022, a time during which the company experienced rapid shifts in demand driven by global digital adoption trends and increased consumer interest in home entertainment and gaming products.
 
-
+<br><br>
 From a business standpoint, Elcore Electronics focuses on driving revenue growth while maintaining profitability, with key performance metrics including:
 - **Total Revenue (USD)** 
 -	**Average Order Value (AOV)** 
