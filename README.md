@@ -47,7 +47,7 @@ Prior to analysis, several data quality checks and transformations were performe
 •	Standardized missing values by replacing them with "Unknown" 
 •	Ensured consistency across categorical fields (platform, channel, country) 
 
-The queries utilized to inspect and perform quality checks can be found [here]([Portofolio 1 Log.xlsx](https://github.com/haquesparks/Project-1/blob/main/Portofolio%201%20Log.xlsx)).
+The queries utilized to inspect and perform quality checks can be found ([here](https://github.com/haquesparks/Project-1/blob/main/Portofolio%201%20Log.xlsx)).
 ________________________________________
 Executive Summary
 
