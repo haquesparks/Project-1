@@ -15,7 +15,7 @@ From a business standpoint, Elcore Electronics focuses on driving revenue growth
 
 This analysis was conducted to support executive leadership and cross-functional teams (Product, Marketing, and Finance) in understanding how revenue has evolved over time and identifying key drivers behind performance trends.
 
-
+<br><br>
 The primary business question addressed in this analysis is:
 
 **How did total revenue across all products perform between 2019 and 2022, and what insights can help stakeholders understand high-level trends and opportunities?**
@@ -108,13 +108,13 @@ ________________________________________
 # Recommendations
 Based on the analysis, the following strategic actions are recommended:
 -	Improve Mobile App Performance
-With only ~2.4% of revenue coming from mobile, there is a major opportunity to optimize the mobile experience and increase adoption. 
+With only ~2.4% of revenue coming from mobile, there is a major opportunity to optimize the mobile experience and increase adoption.<br> 
 -	Capitalize on High-Performing Product Categories
-Expand inventory and marketing efforts around gaming consoles and high-end electronics, which drive the majority of revenue. 
+Expand inventory and marketing efforts around gaming consoles and high-end electronics, which drive the majority of revenue.<br> 
 -	Address Product Portfolio Inefficiencies
-Evaluate and potentially discontinue or reposition underperforming products such as the Razer Pro Gaming Headset. 
+Evaluate and potentially discontinue or reposition underperforming products such as the Razer Pro Gaming Headset.<br> 
 -	Strengthen Customer Retention Strategies
-With low repeat purchase rates, implement loyalty programs, personalized marketing, or email retention campaigns. 
+With low repeat purchase rates, implement loyalty programs, personalized marketing, or email retention campaigns.<br> 
 -	Mitigate Seasonal Revenue Volatility
 Introduce promotions or campaigns in January to stabilize post-holiday revenue drops. 
 -	Analyze and Mitigate Refund Rate Anomalies
