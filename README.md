@@ -57,7 +57,7 @@ A clear seasonal pattern emerged, with revenue consistently spiking in December 
 
 At a high level, the business demonstrates strong product-market fit in gaming and high-end electronics, but faces challenges in platform imbalance and product concentration risk.
 
-Below is the Executive Summary page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [(here](https://github.com/haquesparks/Project-1/blob/main/Portfolio%201.pbix).
+Below is the Executive Summary page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/haquesparks/Project-1/blob/main/Portfolio%201.pbix).
 
 ![Executive Summary Dashboard](images/Executive%20summary.png)
 ________________________________________
