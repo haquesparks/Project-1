@@ -21,10 +21,10 @@ The primary business question addressed in this analysis is:
 **How did total revenue across all products perform between 2019 and 2022, and what insights can help stakeholders understand high-level trends and opportunities?**
 
 To answer this, the analysis explores multiple dimensions of the business, with insights and recommendations provided across the following key areas:
--	Sales Performance - Identifying top-performing products, revenue concentration, and platform-level trends 
--	Customer Insights - Understanding purchasing behavior, geographic distribution, and customer engagement patterns 
--	Marketing Effectiveness - Evaluating channel performance, revenue contribution, and customer acquisition sources 
--	Operational Efficiency - Analyzing seasonality, revenue fluctuations, and potential inefficiencies in business performance
+-	**Sales Performance** - Identifying top-performing products, revenue concentration, and platform-level trends 
+-	**Customer Insights** - Understanding purchasing behavior, geographic distribution, and customer engagement patterns 
+-	**Marketing Effectiveness** - Evaluating channel performance, revenue contribution, and customer acquisition sources 
+-	**Operational Efficiency** - Analyzing seasonality, revenue fluctuations, and potential inefficiencies in business performance
 
 The interactive PowerBI dashboard can be downloaded [here](https://github.com/haquesparks/Project-1/blob/main/Portfolio%201.pbix).
 ________________________________________
@@ -57,9 +57,9 @@ ________________________________________
 
 Between 2019 and 2024, total revenue showed an overall upward trajectory, though with noticeable fluctuations across time. Revenue peaked in 2020, driven by strong demand for high-value electronics products during the pandemic.
 
-A clear seasonal pattern emerged, with revenue consistently spiking in December (holiday demand) followed by sharp declines in January. Additionally, revenue concentration was heavily skewed toward a small number of high-performing products. Though an unusual spike in refund rates was observed in August 2020, highlighting a potential operational disruption that warrants deeper investigation.
+A clear seasonal pattern emerged, with **revenue consistently spiking in December (holiday demand) followed by sharp declines in January**. Additionally, revenue concentration was heavily **skewed toward a small number of high-performing products**. Though an unusual spike in refund rates was observed in August 2020, highlighting a potential operational disruption that warrants deeper investigation.
 
-At a high level, the business demonstrates strong product-market fit in gaming and high-end electronics, but faces challenges in platform imbalance and product concentration risk.
+At a high level, the business demonstrates **strong product-market fit in gaming and high-end electronics**, but faces challenges in platform imbalance and product concentration risk.
 
 Below is the Executive Summary page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/haquesparks/Project-1/blob/main/Portfolio%201.pbix).
 
@@ -68,10 +68,10 @@ ________________________________________
 # Insights Deep Dive
 ### Sales Performance
 -	Revenue is highly concentrated among a few products, with top contributors including: 
-o	27-inch 4K Gaming Monitor 
-o	Nintendo Switch 
-o	Sony PlayStation 5 Bundle 
-o	Lenovo IdeaPad Gaming 3 
+  -**27-inch 4K Gaming Monitor** 
+  -**Nintendo Switch** 
+  -**Sony PlayStation 5 Bundle** 
+  -**Lenovo IdeaPad Gaming 3** 
 -	The 27-inch 4K Gaming Monitor emerged as the top-performing product, generating approximately $1.8M in revenue. 
 -	In contrast, certain products significantly underperformed, such as the Razer Pro Gaming Headset, contributing only ~$1K in total revenue, indicating poor product-market fit. 
 -	Platform analysis shows that the website significantly outperforms the mobile app, suggesting an imbalance in user experience or adoption. 
