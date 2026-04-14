@@ -121,7 +121,7 @@ With low repeat purchase rates, implement loyalty programs, personalized marketi
 <br> 
 -	Mitigate Seasonal Revenue Volatility
 Introduce promotions or campaigns in January to stabilize post-holiday revenue drops.
-<b> 
+<br> 
 -	Analyze and Mitigate Refund Rate Anomalies
 Investigate the August 2020 refund spike (~30%) to identify whether specific products, regions, or fulfillment issues were responsible, and implement improved quality control and monitoring to prevent recurrence.	
 ________________________________________
