@@ -4,6 +4,7 @@ Elcore Electronics is a global e-commerce company operating in the consumer elec
 
 The dataset covers the period from 2019 to 2022, a time during which the company experienced rapid shifts in demand driven by global digital adoption trends and increased consumer interest in home entertainment and gaming products.
 
+
 From a business standpoint, Elcore Electronics focuses on driving revenue growth while maintaining profitability, with key performance metrics including:
 - **Total Revenue (USD)** 
 -	**Average Order Value (AOV)** 
@@ -14,9 +15,10 @@ From a business standpoint, Elcore Electronics focuses on driving revenue growth
 
 This analysis was conducted to support executive leadership and cross-functional teams (Product, Marketing, and Finance) in understanding how revenue has evolved over time and identifying key drivers behind performance trends.
 
+
 The primary business question addressed in this analysis is:
 
-How did total revenue across all products perform between 2019 and 2022, and what insights can help stakeholders understand high-level trends and opportunities?
+**How did total revenue across all products perform between 2019 and 2022, and what insights can help stakeholders understand high-level trends and opportunities?**
 
 To answer this, the analysis explores multiple dimensions of the business, with insights and recommendations provided across the following key areas:
 -	Sales Performance - Identifying top-performing products, revenue concentration, and platform-level trends 
@@ -29,11 +31,11 @@ ________________________________________
 # Data Structure & Initial Checks
 
 The dataset consists of two primary tables, along with a derived date table created to support time-series analysis, with a total row count of 22,069 records.
--	**Orders Table**
+-	**Orders Table**<br>
 Contains transactional data including user ID, order ID, product details, pricing, purchase dates, shipping/refund dates, platform, and marketing channel. 
--	**Region Table**
+-	**Region Table**<br>
 Maps country codes to their respective geographic regions. 
--	**Date Table** (Derived)
+-	**Date Table** (Derived)<br>
 A custom date dimension table was created to enable robust time-based analysis and reporting. 
 
 ![Data Table](images/ERD.png)
@@ -53,7 +55,7 @@ ________________________________________
 
 ### Overview of Findings
 
-Between 2019 and 2022, total revenue showed an overall upward trajectory, though with noticeable fluctuations across time. Revenue peaked in 2020, driven by strong demand for high-value electronics products during the pandemic.
+Between 2019 and 2024, total revenue showed an overall upward trajectory, though with noticeable fluctuations across time. Revenue peaked in 2020, driven by strong demand for high-value electronics products during the pandemic.
 
 A clear seasonal pattern emerged, with revenue consistently spiking in December (holiday demand) followed by sharp declines in January. Additionally, revenue concentration was heavily skewed toward a small number of high-performing products. Though an unusual spike in refund rates was observed in August 2020, highlighting a potential operational disruption that warrants deeper investigation.
 
