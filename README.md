@@ -107,16 +107,16 @@ o	Revenue stability
 ________________________________________
 # Recommendations
 Based on the analysis, the following strategic actions are recommended:
--	Improve Mobile App Performance
+-	**Improve Mobile App Performance**<br>
 With only ~2.4% of revenue coming from mobile, there is a major opportunity to optimize the mobile experience and increase adoption.<br><br> 
--	Capitalize on High-Performing Product Categories
+-	**Capitalize on High-Performing Product Categories**<br>
 Expand inventory and marketing efforts around gaming consoles and high-end electronics, which drive the majority of revenue.<br><br>
--	Address Product Portfolio Inefficiencies
+-	**Address Product Portfolio Inefficiencies**<br>
 Evaluate and potentially discontinue or reposition underperforming products such as the Razer Pro Gaming Headset.<br><br>
--	Strengthen Customer Retention Strategies
+-	**Strengthen Customer Retention Strategies**<br>
 With low repeat purchase rates, implement loyalty programs, personalized marketing, or email retention campaigns.<br><br>
--	Mitigate Seasonal Revenue Volatility
+-	**Mitigate Seasonal Revenue Volatility**<br>
 Introduce promotions or campaigns in January to stabilize post-holiday revenue drops.<br><br> 
-- Analyze and Mitigate Refund Rate Anomalies
+- **Analyze and Mitigate Refund Rate Anomalies**<br>
 Investigate the August 2020 refund spike (~30%) to identify whether specific products, regions, or fulfillment issues were responsible, and implement improved quality control and monitoring to prevent recurrence.	
 ________________________________________
