@@ -95,13 +95,13 @@ ________________________________________
 ![Marketing Effectiveness Dashboard](images/Marketing%20effectiveness.png)
 ________________________________________
 ### Operational Efficiency & Trends
--	A strong seasonality effect is observed: 
-o	Revenue peaks in December 
-o	Sharp declines occur in January, representing a recurring post-holiday slowdown 
--	This indicates potential challenges in: 
-o	Demand forecasting 
-o	Inventory planning 
-o	Revenue stability 
+-	**A strong seasonality effect is observed:** 
+    - Revenue peaks in December 
+    - Sharp declines occur in January, representing a recurring post-holiday slowdown 
+-	**This indicates potential challenges in:** 
+    - Demand forecasting 
+    - Inventory planning 
+    - Revenue stability 
 
 ![Revenue Trend](images/Revenue%20Trend.png)
 ________________________________________
