@@ -1,4 +1,4 @@
-Project Background
+# Project Background
 
 Elcore Electronics is a global e-commerce company operating in the consumer electronics industry, offering a wide range of products including gaming consoles, monitors, laptops, and accessories. The company sells directly to customers through its website and mobile application, following a direct-to-consumer (D2C) business model.
 
@@ -26,7 +26,7 @@ To answer this, the analysis explores multiple dimensions of the business, with 
 
 The interactive PowerBI dashboard can be downloaded [here](https://github.com/haquesparks/Project-1/blob/main/Portfolio%201.pbix).
 ________________________________________
-Data Structure & Initial Checks
+# Data Structure & Initial Checks
 
 The dataset consists of two primary tables, along with a derived date table created to support time-series analysis, with a total row count of 22,069 records.
 •	Orders Table
@@ -49,7 +49,9 @@ Prior to analysis, several data quality checks and transformations were performe
 
 The queries utilized to inspect and perform quality checks can be found [here](https://github.com/haquesparks/Project-1/blob/main/Portofolio%201%20Log.xlsx).
 ________________________________________
-Executive Summary
+# Executive Summary
+
+### Overview of Findings
 
 Between 2019 and 2022, total revenue showed an overall upward trajectory, though with noticeable fluctuations across time. Revenue peaked in 2020, driven by strong demand for high-value electronics products during the pandemic.
 
@@ -61,8 +63,8 @@ Below is the Executive Summary page from the PowerBI dashboard and more examples
 
 ![Executive Summary Dashboard](images/Executive%20summary.png)
 ________________________________________
-Insights Deep Dive
-1. Sales Performance
+# Insights Deep Dive
+### Sales Performance
 •	Revenue is highly concentrated among a few products, with top contributors including: 
 o	27-inch 4K Gaming Monitor 
 o	Nintendo Switch 
@@ -74,7 +76,7 @@ o	Lenovo IdeaPad Gaming 3
 
 ![Sales Performance Dashboard](images/Sales%20performance.png)
 ________________________________________
-2. Customer Insights
+### Customer Insights
 •	The business is heavily reliant on low-frequency purchasing behavior, with an average of ~1 order per customer, indicating limited repeat purchases. 
 •	North America dominates the customer base, contributing the majority of transactions and revenue. 
 •	A significant spike in refund rates was observed in August 2020, reaching approximately 30%, compared to a baseline average of ~10% since January 2019, indicating a potential disruption in product quality, fulfillment, or customer expectations during that period.
@@ -82,7 +84,7 @@ ________________________________________
 
 ![Customer Insights Dashboard](images/Customer%20insights.png)
 ________________________________________
-3. Marketing Effectiveness
+### Marketing Effectiveness
 •	The Direct channel is the largest contributor to revenue, suggesting strong brand recognition or repeat visitation. 
 •	However, the Affiliate channel generates the highest Average Order Value (AOV), indicating higher-quality or higher-intent traffic. 
 •	Account creation is primarily driven through desktop, followed by mobile, aligning with the stronger performance of the website platform. 
@@ -90,7 +92,7 @@ ________________________________________
 
 ![Marketing Effectiveness Dashboard](images/Marketing%20effectiveness.png)
 ________________________________________
-4. Operational Efficiency & Trends
+### Operational Efficiency & Trends
 •	A strong seasonality effect is observed: 
 o	Revenue peaks in December 
 o	Sharp declines occur in January, representing a recurring post-holiday slowdown 
@@ -101,7 +103,7 @@ o	Revenue stability
 
 ![Revenue Trend](images/Revenue%20Trend.png)
 ________________________________________
-Recommendations
+# Recommendations
 Based on the analysis, the following strategic actions are recommended:
 •	Improve Mobile App Performance
 With only ~2.4% of revenue coming from mobile, there is a major opportunity to optimize the mobile experience and increase adoption. 
