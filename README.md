@@ -68,10 +68,10 @@ ________________________________________
 # Insights Deep Dive
 ### Sales Performance
 -	Revenue is highly concentrated among a few products, with top contributors including: 
-  - **27-inch 4K Gaming Monitor** 
-  - **Nintendo Switch** 
-  - **Sony PlayStation 5 Bundle** 
-  - **Lenovo IdeaPad Gaming 3** 
+    - **27-inch 4K Gaming Monitor** 
+    - **Nintendo Switch** 
+    - **Sony PlayStation 5 Bundle** 
+    - **Lenovo IdeaPad Gaming 3** 
 -	The 27-inch 4K Gaming Monitor emerged as the top-performing product, generating approximately $1.8M in revenue. 
 -	In contrast, certain products significantly underperformed, such as the Razer Pro Gaming Headset, contributing only ~$1K in total revenue, indicating poor product-market fit. 
 -	Platform analysis shows that the website significantly outperforms the mobile app, suggesting an imbalance in user experience or adoption. 
